@@ -1,11 +1,5 @@
 # Virtual Pet Simulator game
 
-
-
-
-
-
-
 import random
 import time
 
